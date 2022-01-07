@@ -16,6 +16,7 @@ Vernell Miller
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](VernellMiller1@email.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vernell-miller-097b92130/)
 [![](https://img.shields.io/badge/Behance-030303?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/VernellMiller)
+[![](https://img.shields.io/badge/ArtStaion-13AFF0?style=for-the-badge&logo=artstaion&logoColor=white)](https://www.artstation.com/nezeef)
 
 <!--
 **VernellMiller/VernellMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
